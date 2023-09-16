@@ -1,0 +1,5 @@
+body {
+  background-image: url('/public/fixed.jpg');
+  background-size: cover;
+  /* Additional styling properties for the background */
+}
